@@ -1,0 +1,85 @@
+img{
+    width: 100%;
+    height: auto;
+    margin-top: -10px;
+}
+.container{
+    width: 5%;
+    height: auto;
+    margin-left: 1px;
+}
+.heading{
+    -webkit-text-fill-color: white;
+    margin-top: -750px;
+    margin-left: 15px;
+}
+.paraone{
+    -webkit-text-fill-color: bisque;
+    margin-top: 50px;
+    margin-left: 10px;
+    
+}
+.hyper{
+    margin-top: 400px;
+    margin-left: 15px;
+    font-size: 25px;
+}
+.two{
+    background-color: white;
+}
+.three{
+    width: 50%;
+    height: 190px;
+    background-color: green;
+}
+.three img{
+    width:60%;
+    margin-top: 108px;
+    margin-left: 30px;
+}
+.four img{
+    width: 60%;
+    margin-top: 200px;
+    margin-left: 610px;
+}
+.lvng{
+    margin-top: 600px;
+}
+.lvng h1{
+    color: yellow;
+    text-align: center;
+    margin-top: -850px;
+
+}
+.lvng p{
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+.card1{
+    opacity: 2;
+    font-weight: bold;
+    background-color:black;
+    color: brightness(150%);
+    border-color:red;
+    border-style: double;
+    border:5px solid white;
+    height: 300px;
+    margin-left: 20px;
+}
+.card2{
+    background-color: white;
+    color:yellow;
+    margin-left: 600px;
+    height: 300px;
+    margin-top: -300px;
+}
+.card3{
+    background-color: yellow;
+    color: white;
+    height: 300px;
+    margin-top: -285px;
+    margin-left: 1000px;
+}
+
